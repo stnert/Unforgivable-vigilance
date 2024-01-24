@@ -3,6 +3,10 @@ Links that prove online surveillance is constant and some tips on how to defend 
 
 # Read more about Privacy, security and surveillance
 
+CybeWar Map -> https://embed.kumu.io/0b023bf1a971ba32510e86e8f1a38c38#apt-index
+
+APTMap -> https://andreacristaldi.github.io/APTmap/
+
 VAULT7 -> https://wikileaks.org/vault7/
 
 WikiLeaks Files -> Access with Tor Browser => http://drive.anonymouscibyfrq27vxzji5nwfoemmxlbsuimhguhwzwwhgxanovfqd.onion/WikiLeaks/
