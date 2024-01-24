@@ -5,7 +5,7 @@ Many countries including the United States, United Kingdom, Russia, China, Israe
 
 # Read more about Privacy, security and surveillance
 
-CybeWar Map -> https://embed.kumu.io/0b023bf1a971ba32510e86e8f1a38c38#apt-index
+The CyberWar Map in a visual guide -> https://embed.kumu.io/0b023bf1a971ba32510e86e8f1a38c38#apt-index
 
 APTMap -> https://andreacristaldi.github.io/APTmap/
 
