@@ -1,10 +1,9 @@
 # Unforgivable-vigilance
 Links that prove online surveillance is constant and some tips on how to defend yourself
 
-**Read more about Privacy, security and surveillance
-**
+# Read more about Privacy, security and surveillance
 
-https://wikileaks.org/vault7/
+VAULT7 -> https://wikileaks.org/vault7/
 
 WikiLeaks Files -> Access with Tor Browser => http://drive.anonymouscibyfrq27vxzji5nwfoemmxlbsuimhguhwzwwhgxanovfqd.onion/WikiLeaks/
 
