@@ -80,4 +80,10 @@ Pratical Cyber Intelligence -> https://wim.nl.tab.digital/s/sSwWmfsorkMPxfB
 OpenSSF Foundation -> https://openssf.org/
 
 
+Made by an eternal hackeractivist 🕵️‍♂️.
+
+
+![image](https://github.com/stnert/Unforgivable-vigilance/assets/48295298/3f10ea75-39bd-4e97-a4f2-43ffceee7dca)
+
+
 
