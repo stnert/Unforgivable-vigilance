@@ -43,11 +43,11 @@ FIVE EYES -> https://pt.wikipedia.org/wiki/Alian%C3%A7a_Cinco_Olhos
 
 Libreboot -> https://libreboot.org/
 
-Spyware at the Hardware Level - Intel ME & AMD PSP -> https://vid.puffyan.us/watch?v=HNwWQ9zGT-8
+Spyware at the Hardware Level - Intel ME & AMD PSP -> https://iv.nboeck.de/watch?v=HNwWQ9zGT-8
 
 NSA-Proof your email in 2 hours -> https://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/
 
-Intel Management Engine Explained -> https://vid.puffyan.us/watch?v=HNwWQ9zGT-8
+Intel Management Engine Explained -> https://iv.nboeck.de/watch?v=Lr-9aCMUXzI
 
 Spyware Watchdog -> https://spyware.neocities.org/
 
