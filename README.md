@@ -126,7 +126,7 @@ Desktop Linux Hardening -> https://privsec.dev/posts/linux/desktop-linux-hardeni
 
 Tracking interesting Linux (and UNIX) malware. Send PRs - https://github.com/timb-machine/linux-malware
 
-Hackers & Profissionais de segurança Cibernética, uma Batalha para o Digital Dominância -> https://thecyberexpress.com/artificial-intelligence-hackers-cybersecurity/
+AI Arms Race: Hackers vs Cybersecurity Professional, a Battle for Digital Dominance -> https://thecyberexpress.com/artificial-intelligence-hackers-cybersecurity/
 
 MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations -  https://attack.mitre.org/
 
