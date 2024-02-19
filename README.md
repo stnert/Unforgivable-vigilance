@@ -29,6 +29,8 @@ KickSecure -> https://www.kicksecure.com/
 
 NixOS -> https://nixos.org/
 
+Devuan -> https://www.devuan.org/
+
 Hyperbola -> https://www.hyperbola.info/
 
 PureOS -> https://pureos.net/
