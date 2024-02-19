@@ -47,7 +47,7 @@ Spyware at the Hardware Level - Intel ME & AMD PSP -> https://invidious.0011.lt/
 
 NSA-Proof your email in 2 hours -> https://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/
 
-Intel Management Engine Explained -> https://yt.etersec.com/watch?v=Lr-9aCMUXzI
+Intel Management Engine Explained -> https://invidious.0011.lt/watch?v=Lr-9aCMUXzI 
 
 Spyware Watchdog -> https://spyware.neocities.org/
 
