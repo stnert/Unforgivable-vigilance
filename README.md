@@ -35,6 +35,8 @@ QubesOS -> https://www.qubes-os.org/
 
 KickSecure -> https://www.kicksecure.com/
 
+OpenBSD -> https://www.openbsd.org/
+
 NixOS -> https://nixos.org/
 
 Devuan -> https://www.devuan.org/
