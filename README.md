@@ -75,7 +75,6 @@ Amifloced -> https://amifloced.org/
 
 Street Level Surveillance -> https://sls.eff.org/
 
-Kaspersky CyberTrace -> https://support.kaspersky.com/datafeeds/about/13850
 
 Street Level Surveillance -> https://sls.eff.org/
 
@@ -110,6 +109,8 @@ Pratical Cyber Intelligence -> https://wim.nl.tab.digital/s/sSwWmfsorkMPxfB
 Tracking interesting Linux (and UNIX) malware. Send PRs - https://github.com/timb-machine/linux-malware
 
 OpenSSF Foundation -> https://openssf.org/
+
+Kaspersky CyberTrace -> https://support.kaspersky.com/datafeeds/about/13850
 
 
 
