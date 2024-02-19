@@ -100,12 +100,13 @@ Tracking interesting Linux (and UNIX) malware. Send PRs - https://github.com/tim
 OpenSSF Foundation -> https://openssf.org/
 
 
-Made by an eternal hackeractivist 🕵️‍♂️ | I ♥ Free Software and open source, forever. 
 
 
 
 ![image](https://github.com/stnert/Unforgivable-vigilance/assets/48295298/3f10ea75-39bd-4e97-a4f2-43ffceee7dca)
 
 "Privacy is not the problem, surveillance is."
+
+Made by an eternal hackeractivist 🕵️‍♂️ | I ❤️ Free Software and open source, forever. 
 
 
