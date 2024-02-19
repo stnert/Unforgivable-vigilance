@@ -43,7 +43,7 @@ FIVE EYES -> https://pt.wikipedia.org/wiki/Alian%C3%A7a_Cinco_Olhos
 
 Libreboot -> https://libreboot.org/
 
-Spyware at the Hardware Level - Intel ME & AMD PSP -> https://vid.puffyan.us/feed/popular/channel/UC7YOGHUfC1Tb6E4pudI9STA
+Spyware at the Hardware Level - Intel ME & AMD PSP -> https://vid.puffyan.us/watch?v=HNwWQ9zGT-8
 
 NSA-Proof your email in 2 hours -> https://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/
 
