@@ -43,6 +43,8 @@ NixOS -> https://nixos.org/
 
 Devuan -> https://www.devuan.org/
 
+Arch Linux -> https://archlinux.org/
+
 Hyperbola -> https://www.hyperbola.info/
 
 RedoxOS -> https://www.redox-os.org/
