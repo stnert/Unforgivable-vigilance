@@ -19,8 +19,6 @@ Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora -
 
 SecureDrop is an open-source whistleblower submission system that media organizations can use to securely accept documents from, and communicate with anonymous sources. It was originally created by the late Aaron Swartz and is currently managed by the Freedom of the Press Foundation. Recommended by Edward Snowden and WikiLeaks -> https://securedrop.org/
 
-EterSec - Did you see anything wrong? Denounce!  -> https://etersec.org/pt-br/
-
 Tails -> https://tails.net/index.en.html
 
 QubesOS -> https://www.qubes-os.org/
@@ -73,6 +71,8 @@ Surveillance Self-Defense -> https://ssd.eff.org/
 
 Cover Your Trackers -> https://coveryourtracks.eff.org/
 
+# Studying hard for Cybersecurity 
+
 Awesome Security Hardening -> https://github.com/decalage2/awesome-security-hardening
 
 Awesome DevSecOps -> https://github.com/devsecops/awesome-devsecops
@@ -96,7 +96,8 @@ Pratical Cyber Intelligence -> https://wim.nl.tab.digital/s/sSwWmfsorkMPxfB
 OpenSSF Foundation -> https://openssf.org/
 
 
-Made by an eternal hackeractivist 🕵️‍♂️.
+Made by an eternal hackeractivist 🕵️‍♂️ | I ♥ Free Software and open source, forever. 
+
 
 
 ![image](https://github.com/stnert/Unforgivable-vigilance/assets/48295298/3f10ea75-39bd-4e97-a4f2-43ffceee7dca)
