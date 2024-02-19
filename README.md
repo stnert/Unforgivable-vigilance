@@ -84,6 +84,8 @@ Cover Your Trackers -> https://coveryourtracks.eff.org/
 
 # Studying hard for Cybersecurity 
 
+Awesome Self-Hosted - https://github.com/awesome-selfhosted/awesome-selfhosted
+
 Awesome Security Hardening -> https://github.com/decalage2/awesome-security-hardening
 
 Awesome SysAdmin -> https://github.com/awesome-foss/awesome-sysadmin
@@ -99,8 +101,6 @@ Awesome Threat Detection -> https://github.com/0x4D31/awesome-threat-detection
 Awesome Threat Intelligence -> https://github.com/hslatman/awesome-threat-intelligence
  
 Awesome Malware Analysis -> https://github.com/rshipp/awesome-malware-analysis
-
-Awesome Self-Hosted - https://github.com/awesome-selfhosted/awesome-selfhosted
 
 Personal Security Checklist -> https://github.com/Lissy93/personal-security-checklist
 
