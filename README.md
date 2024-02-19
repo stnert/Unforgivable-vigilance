@@ -33,7 +33,7 @@ Devuan -> https://www.devuan.org/
 
 Hyperbola -> https://www.hyperbola.info/
 
-PureOS -> https://pureos.net/
+RedoxOS -> https://www.redox-os.org/
 
 LFS Linux -> https://www.linuxfromscratch.org/lfs/
 
