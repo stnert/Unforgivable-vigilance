@@ -122,6 +122,8 @@ Personal Security Checklist -> https://github.com/Lissy93/personal-security-chec
 
 Pratical Cyber Intelligence -> https://wim.nl.tab.digital/s/sSwWmfsorkMPxfB
 
+Desktop Linux Hardening -> https://privsec.dev/posts/linux/desktop-linux-hardening/
+
 Tracking interesting Linux (and UNIX) malware. Send PRs - https://github.com/timb-machine/linux-malware
 
 MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations -  https://attack.mitre.org/
