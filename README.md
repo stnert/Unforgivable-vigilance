@@ -17,11 +17,21 @@ WikiLeaks Files -> Access with Tor Browser -> http://drive.anonymouscibyfrq27vxz
 
 SecureDrop is an open-source whistleblower submission system that media organizations can use to securely accept documents from, and communicate with anonymous sources. It was originally created by the late Aaron Swartz and is currently managed by the Freedom of the Press Foundation. Recommended by Edward Snowden and WikiLeaks -> https://securedrop.org/
 
+# Recommended Operating Systems
+
 Tails -> https://tails.net/index.en.html
+
+Whonix -> https://www.whonix.org/
 
 QubesOS -> https://www.qubes-os.org/
 
+KickSecure -> https://www.kicksecure.com/
+
+Debian Project -> https://www.debian.org/
+
 LFS Linux -> https://www.linuxfromscratch.org/lfs/
+
+# Vigilance Links 
 
 The GAFAM poster campaign toolkit -> https://gafam.info/
 
