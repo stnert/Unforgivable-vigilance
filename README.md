@@ -15,6 +15,8 @@ VAULT7 -> https://wikileaks.org/vault7/
 
 WikiLeaks Files -> Access with Tor Browser -> http://drive.anonymouscibyfrq27vxzji5nwfoemmxlbsuimhguhwzwwhgxanovfqd.onion/WikiLeaks/
 
+Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora - https://prism-break.org/en/
+
 SecureDrop is an open-source whistleblower submission system that media organizations can use to securely accept documents from, and communicate with anonymous sources. It was originally created by the late Aaron Swartz and is currently managed by the Freedom of the Press Foundation. Recommended by Edward Snowden and WikiLeaks -> https://securedrop.org/
 
 EterSec - Did you see anything wrong? Denounce!  -> https://etersec.org/pt-br/
