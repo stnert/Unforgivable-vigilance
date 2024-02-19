@@ -27,6 +27,8 @@ QubesOS -> https://www.qubes-os.org/
 
 KickSecure -> https://www.kicksecure.com/
 
+NixOS -> https://nixos.org/
+
 Debian Project -> https://www.debian.org/
 
 LFS Linux -> https://www.linuxfromscratch.org/lfs/
