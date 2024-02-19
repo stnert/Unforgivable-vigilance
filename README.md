@@ -4,7 +4,9 @@ Links that prove online surveillance is constant and some tips on how to defend 
 The titans that dominate the internet. They are like Mutant. Gods. Indestructible. An endless battle. Choose your profile. 
 
 • Governments;
+
 • Hackers; 
+
 • Crackers;
 
 Many countries including the United States, United Kingdom, Russia, China, Israel, Iran, and North Korea have active cyber capabilities for offensive and defensive operations. As states explore the use of cyber operations and combine capabilities, the likelihood of physical confrontation and violence playing out as a result of, or part of, a cyber operation is increased. However, meeting the scale and protracted nature of war is unlikely, thus ambiguity remains. 
