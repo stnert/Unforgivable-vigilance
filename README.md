@@ -100,7 +100,7 @@ Awesome Threat Intelligence -> https://github.com/hslatman/awesome-threat-intell
  
 Awesome Malware Analysis -> https://github.com/rshipp/awesome-malware-analysis
 
-Awesome Selft-Hosted - https://github.com/awesome-selfhosted/awesome-selfhosted
+Awesome Self-Hosted - https://github.com/awesome-selfhosted/awesome-selfhosted
 
 Personal Security Checklist -> https://github.com/Lissy93/personal-security-checklist
 
