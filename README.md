@@ -29,7 +29,9 @@ KickSecure -> https://www.kicksecure.com/
 
 NixOS -> https://nixos.org/
 
-Debian Project -> https://www.debian.org/
+Hyperbola -> https://www.hyperbola.info/
+
+PureOS -> https://pureos.net/
 
 LFS Linux -> https://www.linuxfromscratch.org/lfs/
 
