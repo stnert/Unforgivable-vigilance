@@ -75,6 +75,8 @@ Cover Your Trackers -> https://coveryourtracks.eff.org/
 
 Awesome Security Hardening -> https://github.com/decalage2/awesome-security-hardening
 
+Awesome SysAdmin -> https://github.com/awesome-foss/awesome-sysadmin
+
 Awesome DevSecOps -> https://github.com/devsecops/awesome-devsecops
 
 Awesome CyberSecurity Blue Team -> https://github.com/fabacab/awesome-cybersecurity-blueteam
