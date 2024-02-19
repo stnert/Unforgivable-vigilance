@@ -63,9 +63,9 @@ No More Ransom -> https://www.nomoreransom.org/pt/index.html
 
 Amifloced -> https://amifloced.org/
 
-Street Level Surveillance -> 
+Street Level Surveillance -> https://sls.eff.org/
 
-Kaspersky CyberTrace -> 
+Kaspersky CyberTrace -> https://support.kaspersky.com/datafeeds/about/13850
 
 Street Level Surveillance -> https://sls.eff.org/
 
