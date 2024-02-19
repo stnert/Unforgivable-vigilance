@@ -5,7 +5,7 @@ Many countries including the United States, United Kingdom, Russia, China, Israe
 
 These same countries, today operating in the shadows and massive surveillance, seek to spy on targets.
 
-# Read more about Privacy, security and surveillance
+# Read more about Privacy, Security and surveillance inside: 
 
 The CyberWar Map in a visual guide -> https://embed.kumu.io/0b023bf1a971ba32510e86e8f1a38c38#apt-index
 
