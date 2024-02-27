@@ -145,10 +145,15 @@ Kaspersky CyberTrace -> https://support.kaspersky.com/datafeeds/about/13850
 # Privacy Links 
 
 Arkenfox -> https://github.com/arkenfox/user.js
+
 Privoxy -> https://www.privoxy.org/
+
 Ub0 -> https://github.com/gorhill/uBlock
+
 NoScript -> https://noscript.net/
+
 LocalCDN -> https://codeberg.org/nobody/LocalCDN
+
 FireHOL -> https://iplists.firehol.org/
 
 
