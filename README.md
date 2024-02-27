@@ -27,8 +27,6 @@ SecureDrop is an open-source whistleblower submission system that media organiza
 
 # Recommended Operating Systems
 
-Tails -> https://tails.net/index.en.html
-
 Whonix -> https://www.whonix.org/
 
 QubesOS -> https://www.qubes-os.org/
