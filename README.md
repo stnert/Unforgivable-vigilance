@@ -142,7 +142,7 @@ OpenSSF Foundation -> https://openssf.org/
 Kaspersky CyberTrace -> https://support.kaspersky.com/datafeeds/about/13850
 
 
-# Privcy Links 
+# Privacy Links 
 
 https://github.com/arkenfox/user.js
 
