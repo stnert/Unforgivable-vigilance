@@ -122,6 +122,8 @@ Awesome Threat Intelligence -> https://github.com/hslatman/awesome-threat-intell
  
 Awesome Malware Analysis -> https://github.com/rshipp/awesome-malware-analysis
 
+Awesome Mobile Security -> https://github.com/vaib25vicky/awesome-mobile-security
+
 Personal Security Checklist -> https://github.com/Lissy93/personal-security-checklist
 
 Pratical Cyber Intelligence -> https://wim.nl.tab.digital/s/sSwWmfsorkMPxfB
