@@ -139,6 +139,8 @@ MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and 
 
 OpenSSF Foundation -> https://openssf.org/
 
+Data Breach -> https://www.trendmicro.com/vinfo/us/security/definition/data-breach
+
 Kaspersky CyberTrace -> https://support.kaspersky.com/datafeeds/about/13850
 
 
