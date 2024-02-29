@@ -71,6 +71,8 @@ Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora -
 
 STATEROOM -> https://pt.wikipedia.org/wiki/STATEROOM
 
+Op Condor -> https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Condor
+
 MUSCULAR -> https://pt.wikipedia.org/wiki/MUSCULAR_(programa_de_vigil%C3%A2ncia)
 
 FIVE EYES -> https://pt.wikipedia.org/wiki/Alian%C3%A7a_Cinco_Olhos
