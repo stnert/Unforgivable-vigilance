@@ -111,6 +111,8 @@ Awesome Self-Hosted - https://github.com/awesome-selfhosted/awesome-selfhosted
 
 Awesome Security Hardening -> https://github.com/decalage2/awesome-security-hardening
 
+Awesome Personal Security Checklist -> https://github.com/lissy93/personal-security-checklist
+
 Awesome SysAdmin -> https://github.com/awesome-foss/awesome-sysadmin
 
 Awesome DevSecOps -> https://github.com/devsecops/awesome-devsecops
