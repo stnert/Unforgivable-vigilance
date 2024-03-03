@@ -85,8 +85,6 @@ NSA-Proof your email in 2 hours -> https://sealedabstract.com/code/nsa-proof-you
 
 Intel Management Engine Explained -> https://iv.nboeck.de/watch?v=Lr-9aCMUXzI (Surveillance exploited through hardware-level vulnerability)
 
-Spyware Watchdog -> https://spyware.neocities.org/
-
 Linux Security Tools (Top100) -> https://linuxsecurity.expert/security-tools/top-100/
 
 Common Vulnerability Scoring System -> https://www.first.org/cvss/v4-0/index.html
