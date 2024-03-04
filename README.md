@@ -1,7 +1,7 @@
 # Unforgivable-vigilance
 Links that prove online surveillance is constant and some tips on how to defend yourself. 
 
-The titans that dominate the internet. They are like Mutant. Gods. Indestructible. An endless battle. Choose who to believe.
+The titans that dominate the internet. They are like Mutant. Gods. Indestructible. An endless battle. Who is your fan base for?
 
 • Governments;
 
