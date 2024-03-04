@@ -2,7 +2,8 @@
 
 Do you know that online surveillance is widespread and constant? If you're concerned about being monitored, don't worry - there are ways to defend yourself. Here are a few helpful tips to protect your online privacy.
 
-The internet is ruled by powerful entities such as **governments**, **_hackers_**, and **_crackers_** - and they're like mutant gods that seem indestructible. But who do they serve? Who is their fan base? You have the right to know!
+The internet is ruled by powerful entities such as **governments**, **_hackers_**, and **_crackers_** - and they're like mutant gods that seem indestructible. The infinite battle. 
+But who do they serve? Who is their fan base? You have the right to know!
 
 Several countries, including the United States, United Kingdom, Russia, China, Israel, Iran, and North Korea, have active cyber capabilities for both offensive and defensive operations. As they continue to develop their cyber capabilities, the likelihood of physical confrontation and violence resulting from a cyber operation is increased. But let's be clear - cyber warfare will never escalate to the scale or protracted nature of traditional war.
 
