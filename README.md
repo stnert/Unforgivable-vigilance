@@ -27,12 +27,14 @@ SecureDrop is an open-source whistleblower submission system that media organiza
 
 # Recommended Operating Systems
 
-Whonix -> https://www.whonix.org/
+# Advanced 
 
-Tails -> https://tails.net/
+Whonix -> https://www.whonix.org/
 
 QubesOS -> https://www.qubes-os.org/
 
+RedoxOS -> https://www.redox-os.org/
+ 
 MirageOS -> https://mirage.io/
 
 KickSecure -> https://www.kicksecure.com/
@@ -41,9 +43,11 @@ OpenBSD -> https://www.openbsd.org/
 
 NixOS -> https://nixos.org/
 
-Devuan -> https://www.devuan.org/
+LFS Linux -> https://www.linuxfromscratch.org/lfs/
 
-Debian -> http://debian.org/
+# Intermediate 
+
+Devuan -> https://www.devuan.org/
 
 Busenlabs -> https://www.bunsenlabs.org/
 
@@ -51,9 +55,11 @@ Arch Linux -> https://archlinux.org/
 
 Hyperbola -> https://www.hyperbola.info/
 
-RedoxOS -> https://www.redox-os.org/
+# Beginner 
 
-LFS Linux -> https://www.linuxfromscratch.org/lfs/
+Debian -> http://debian.org/
+
+Tails -> https://tails.net/
 
 # Vigilance Links 
 
