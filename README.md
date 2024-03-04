@@ -1,15 +1,12 @@
 # Unforgivable-vigilance
-Links that prove online surveillance is constant and some tips on how to defend yourself. 
 
-The titans that dominate the internet. They are like Mutant. Gods. Indestructible. An endless battle. Who is your fan base for?
+Do you know that online surveillance is widespread and constant? If you're concerned about being monitored, don't worry - there are ways to defend yourself. Here are a few helpful tips to protect your online privacy.
 
-• Governments;
+The internet is ruled by powerful entities such as governments, hackers, and crackers - and they're like mutant gods that seem indestructible. But who do they serve? Who is their fan base? You have the right to know!
 
-• Hackers; 
+Several countries, including the United States, United Kingdom, Russia, China, Israel, Iran, and North Korea, have active cyber capabilities for both offensive and defensive operations. As they continue to develop their cyber capabilities, the likelihood of physical confrontation and violence resulting from a cyber operation is increased. But let's be clear - cyber warfare will never escalate to the scale or protracted nature of traditional war.
 
-• Crackers;
-
-Many countries including the United States, United Kingdom, Russia, China, Israel, Iran, and North Korea have active cyber capabilities for offensive and defensive operations. As states explore the use of cyber operations and combine capabilities, the likelihood of physical confrontation and violence playing out as a result of, or part of, a cyber operation is increased. However, meeting the scale and protracted nature of war is unlikely, thus ambiguity remains. 
+These countries operate in the shadows while engaging in massive surveillance to spy on targets. Don't let them do it to you! It's time to take control of your online privacy and defend yourself against constant surveillance.
 
 These same countries, today operating in the shadows and massive surveillance, seek to spy on targets.
 
