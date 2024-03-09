@@ -97,7 +97,9 @@ Common Vulnerability Scoring System -> https://www.first.org/cvss/v4-0/index.htm
 
 Visualizing the Length of the Fine Print, for 14 Popular Apps -> https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements/
 
- Protect your freedom and privacy; join us in creating an Internet that's safer from surveillance -> https://www.fsf.org/campaigns/surveillance/
+Protect your freedom and privacy; join us in creating an Internet that's safer from surveillance -> https://www.fsf.org/campaigns/surveillance/
+
+We have nothing to hide, only everything to protect  -> https://www.fsf.org/blogs/community/we-have-nothing-to-hide-only-everything-to-protect
 
 No More Ransom -> https://www.nomoreransom.org/pt/index.html
 
