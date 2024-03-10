@@ -127,6 +127,8 @@ Awesome DevSecOps -> https://github.com/devsecops/awesome-devsecops
 
 Awesome CyberSecurity Blue Team -> https://github.com/fabacab/awesome-cybersecurity-blueteam
 
+Awesome Security -> https://github.com/sbilly/awesome-security
+
 Awesome Privacy -> https://github.com/Lissy93/awesome-privacy
 
 Awesome Threat Detection -> https://github.com/0x4D31/awesome-threat-detection
