@@ -121,6 +121,10 @@ Awesome Security Hardening -> https://github.com/decalage2/awesome-security-hard
 
 Awesome Personal Security Checklist -> https://github.com/lissy93/personal-security-checklist
 
+Awesome Web Security https://github.com/qazbnm456/awesome-web-security 
+
+Awesome Incident Response -> https://github.com/meirwah/awesome-incident-response
+
 Awesome SysAdmin -> https://github.com/awesome-foss/awesome-sysadmin
 
 Awesome DevSecOps -> https://github.com/devsecops/awesome-devsecops
