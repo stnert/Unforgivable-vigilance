@@ -185,6 +185,6 @@ FireHOL -> https://iplists.firehol.org/
 
 "Privacy is not the problem, surveillance is."
 
-Made by an eternal anarchist 🕵️‍♂️ | I 💜 Free Software and Open Source, forever. 
+Made the vibrations of love and peace by an eternal anarchist 🕵️‍♂️ | I 💜 Free Software and Open Source, forever. 
 
 
