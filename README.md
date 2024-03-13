@@ -111,6 +111,8 @@ Surveillance Self-Defense -> https://ssd.eff.org/
 
 Cover Your Trackers -> https://coveryourtracks.eff.org/
 
+Location Data Brokers -> https://www.eff.org/issues/location-data-brokers
+
 # Studying hard for Cybersecurity 
 
 Roadmap aboout Cyber Security -> https://roadmap.sh/cyber-security
