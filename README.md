@@ -43,6 +43,8 @@ OpenBSD -> https://www.openbsd.org/
 
 NixOS -> https://nixos.org/
 
+GraphaneOS -> https://grapheneos.org/
+
 LFS Linux -> https://www.linuxfromscratch.org/lfs/
 
 # Intermediate 
@@ -163,7 +165,7 @@ Data Breach -> https://www.trendmicro.com/vinfo/us/security/definition/data-brea
 
 Kaspersky CyberTrace -> https://support.kaspersky.com/datafeeds/about/13850
 
-GraphaneOS -> https://grapheneos.org/features#exploit-protection
+Defending against exploitation of unknown vulnerabilities -> https://grapheneos.org/features#exploit-protection
 
 # Studying hard for Anti-Tracking 
 
