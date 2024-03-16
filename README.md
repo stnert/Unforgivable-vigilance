@@ -163,6 +163,7 @@ Data Breach -> https://www.trendmicro.com/vinfo/us/security/definition/data-brea
 
 Kaspersky CyberTrace -> https://support.kaspersky.com/datafeeds/about/13850
 
+GraphaneOS -> https://grapheneos.org/features#exploit-protection
 
 # Studying hard for Anti-Tracking 
 
