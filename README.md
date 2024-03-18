@@ -13,7 +13,7 @@ These countries operate in the shadows while engaging in massive surveillance to
 
 These same countries, today operating in the shadows and massive surveillance, seek to spy on targets.
 
-# Read more about Privacy, Security and Surveillance inside: 
+# The supreme art of government surveillance
 
 The CyberWar Map in a visual guide -> https://embed.kumu.io/0b023bf1a971ba32510e86e8f1a38c38#apt-index
 
