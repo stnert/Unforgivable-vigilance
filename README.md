@@ -63,7 +63,7 @@ Debian -> http://debian.org/
 
 Tails -> https://tails.net/
 
-# Vigilance Links 
+# Update your surveillance knowledge
 
 The GAFAM poster campaign toolkit -> https://gafam.info/
 
