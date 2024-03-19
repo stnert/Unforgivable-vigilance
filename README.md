@@ -163,6 +163,8 @@ OpenSSF Foundation -> https://openssf.org/
 
 Data Breach -> https://www.trendmicro.com/vinfo/us/security/definition/data-breach
 
+NoPrivacy -> https://github.com/ESUAdmin/NoPrivacy
+
 Defending against exploitation of unknown vulnerabilities -> https://grapheneos.org/features#exploit-protection
 
 # Studying hard for Anti-Tracking 
