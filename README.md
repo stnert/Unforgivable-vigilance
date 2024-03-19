@@ -190,6 +190,6 @@ FireHOL -> https://iplists.firehol.org/
 
 "Privacy is not the problem, surveillance is."
 
-Made the vibrations of ❤️ (528 hz) and 🧘‍♂️ (600 Hz) by an eternal anarchist and cyberactivist 🕵️‍♂️ | I 💜 Free Software and Open Source, forever. 
+Made the vibrations of ❤️ (528 Hz) and 🧘‍♂️ (600 Hz) by an eternal anarchist and cyberactivist 🕵️‍♂️ | I 💜 Free Software and Open Source, forever. 
 
 
