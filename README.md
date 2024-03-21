@@ -121,6 +121,8 @@ Location Data Brokers -> https://www.eff.org/issues/location-data-brokers
 
 Roadmap aboout Cyber Security -> https://roadmap.sh/cyber-security
 
+Security Certification Roadmap -> https://pauljerimy.com/security-certification-roadmap/
+
 Awesome Self-Hosted - https://github.com/awesome-selfhosted/awesome-selfhosted
 
 Awesome Security Hardening -> https://github.com/decalage2/awesome-security-hardening
