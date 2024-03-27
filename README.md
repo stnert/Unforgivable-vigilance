@@ -123,6 +123,8 @@ Roadmap aboout Cyber Security -> https://roadmap.sh/cyber-security
 
 Security Certification Roadmap -> https://pauljerimy.com/security-certification-roadmap/
 
+Wesley Freitas - Cyber Threat Intelligence -> https://start.me/p/7PPkjR/cyber-threat-intelligence
+
 Awesome Self-Hosted - https://github.com/awesome-selfhosted/awesome-selfhosted
 
 Awesome Security Hardening -> https://github.com/decalage2/awesome-security-hardening
