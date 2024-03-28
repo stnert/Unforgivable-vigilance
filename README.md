@@ -45,6 +45,8 @@ OpenBSD -> https://www.openbsd.org/
 
 NixOS -> https://nixos.org/
 
+Gentoo -> https://www.gentoo.org/
+
 GrapheneOS -> https://grapheneos.org/
 
 LFS Linux -> https://www.linuxfromscratch.org/lfs/
