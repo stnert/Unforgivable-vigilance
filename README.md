@@ -119,7 +119,7 @@ Location Data Brokers -> https://www.eff.org/issues/location-data-brokers
 
 # Studying hard for Cybersecurity/Data Breach 
 
-Roadmap aboout Cyber Security -> https://roadmap.sh/cyber-security
+Roadmap about Cyber Security -> https://roadmap.sh/cyber-security
 
 Security Certification Roadmap -> https://pauljerimy.com/security-certification-roadmap/
 
@@ -170,6 +170,8 @@ OpenSSF Foundation -> https://openssf.org/
 Data Breach -> https://www.trendmicro.com/vinfo/us/security/definition/data-breach
 
 NoPrivacy -> https://github.com/ESUAdmin/NoPrivacy
+
+PrivacyKallyDev -> https://privacy.kallydev.com/
 
 Defending against exploitation of unknown vulnerabilities -> https://grapheneos.org/features#exploit-protection
 
