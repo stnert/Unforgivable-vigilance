@@ -181,6 +181,8 @@ PrivacyKallyDev -> https://privacy.kallydev.com/
 
 Defending against exploitation of unknown vulnerabilities -> https://grapheneos.org/features#exploit-protection
 
+Bolha Project -> https://bolha.io/
+
 # Studying hard for Anti-Tracking 
 
 Arkenfox -> https://github.com/arkenfox/user.js
