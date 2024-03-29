@@ -65,6 +65,10 @@ Hyperbola -> https://www.hyperbola.info/
 
 Debian -> http://debian.org/
 
+Fedora -> https://fedoraproject.org/
+
+OpenSUSE -> https://www.opensuse.org/
+
 Tails -> https://tails.net/
 
 # Update your surveillance knowledge
