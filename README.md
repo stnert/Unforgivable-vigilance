@@ -47,6 +47,8 @@ NixOS -> https://nixos.org/
 
 Gentoo -> https://www.gentoo.org/
 
+RHEL -> https://access.redhat.com/downloads/  (For servers/business)
+
 GrapheneOS -> https://grapheneos.org/
 
 LFS Linux -> https://www.linuxfromscratch.org/lfs/
