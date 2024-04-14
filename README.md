@@ -27,6 +27,8 @@ SecureDrop is an open-source whistleblower submission system that media organiza
 
 Search for what you need -> https://vx-underground.org/
 
+The backdoor of century -> https://boehs.org/node/everything-i-know-about-the-xz-backdoor
+
 # Recommended Operating Systems
 
 # Advanced 
