@@ -209,6 +209,8 @@ LocalCDN -> https://codeberg.org/nobody/LocalCDN
 
 FireHOL -> https://iplists.firehol.org/
 
+<div> <a href="https://www.openedr.com/" style="float:left;display:block;width:183px;margin-top:5px; color:#0a1229;text-align: center; font-size: 14px; font-weight:bold;font-family: 'Work Sans', sans-serif;"><img style="background: #0a1229;float:left;display:block;width:100%;padding: 3px;" src="https://www.xcitium.com/images/Xcitium-Logo.png" alt="Xcitium">Try free Open source EDR</a></div> 
+
 
 ![image](https://github.com/stnert/Unforgivable-vigilance/assets/48295298/3f10ea75-39bd-4e97-a4f2-43ffceee7dca)
 
