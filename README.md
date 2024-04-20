@@ -131,7 +131,7 @@ Cover Your Trackers -> https://coveryourtracks.eff.org/
 
 Location Data Brokers -> https://www.eff.org/issues/location-data-brokers
 
-# Studying hard for Vulnerabilities
+# Studying hard for Vulnerabilities and Security
 
 Roadmap about Cyber Security -> https://roadmap.sh/cyber-security
 
