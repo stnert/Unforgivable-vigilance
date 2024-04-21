@@ -192,12 +192,6 @@ Defending against exploitation of unknown vulnerabilities -> https://grapheneos.
 Bolha Project -> https://bolha.io/
 
 
-<a href="https://www.abuseipdb.com/user/148356" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-	<img src="https://www.abuseipdb.com/contributor/148356.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
-</a>
-
-
-
 # Studying hard for Anti-Tracking 
 
 Arkenfox -> https://github.com/arkenfox/user.js
@@ -215,6 +209,21 @@ NoScript -> https://noscript.net/
 LocalCDN -> https://codeberg.org/nobody/LocalCDN
 
 FireHOL -> https://iplists.firehol.org/
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://www.abuseipdb.com/user/148356" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/148356.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
+</a>
+
 
 
 ![image](https://github.com/stnert/Unforgivable-vigilance/assets/48295298/3f10ea75-39bd-4e97-a4f2-43ffceee7dca)
