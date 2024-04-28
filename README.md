@@ -59,8 +59,6 @@ LFS Linux -> https://www.linuxfromscratch.org/lfs/
 
 Devuan -> https://www.devuan.org/
 
-Mageia -> https://www.mageia.org/en/
-
 Busenlabs -> https://www.bunsenlabs.org/
 
 Arch Linux -> https://archlinux.org/
