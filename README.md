@@ -131,8 +131,6 @@ Cover Your Trackers -> https://coveryourtracks.eff.org/
 
 Location Data Brokers -> https://www.eff.org/issues/location-data-brokers
 
-Mindmap -> https://github.com/Ignitetechnologies/Mindmap
-
 # Studying hard for Vulnerabilities and Security
 
 Roadmap about Cyber Security -> https://roadmap.sh/cyber-security
@@ -193,6 +191,7 @@ Defending against exploitation of unknown vulnerabilities -> https://grapheneos.
 
 Bolha Project -> https://bolha.io/
 
+Mindmap -> https://github.com/Ignitetechnologies/Mindmap
 
 # Studying hard for Anti-Tracking 
 
