@@ -203,6 +203,8 @@ Ub0 -> https://github.com/gorhill/uBlock
 
 Mullvad DNS -> https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
 
+Control D -> https://controld.com/
+
 NextDNS -> https://nextdns.io/
 
 Quad9 -> https://quad9.net/
