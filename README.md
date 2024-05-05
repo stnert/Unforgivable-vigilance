@@ -205,6 +205,8 @@ Mullvad DNS -> https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
 
 Control D -> https://controld.com/
 
+AdGuard DNS -> https://adguard-dns.io/
+
 NextDNS -> https://nextdns.io/
 
 Quad9 -> https://quad9.net/
