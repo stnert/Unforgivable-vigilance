@@ -201,6 +201,8 @@ Privoxy -> https://www.privoxy.org/
 
 Ub0 -> https://github.com/gorhill/uBlock
 
+Privacy Badger -> https://privacybadger.org/
+
 Mullvad DNS -> https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
 
 Control D -> https://controld.com/
