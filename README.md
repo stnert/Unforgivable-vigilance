@@ -205,6 +205,8 @@ Mullvad DNS -> https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
 
 NextDNS -> https://nextdns.io/
 
+Quad9 -> https://quad9.net/
+
 NoScript -> https://noscript.net/
 
 LocalCDN -> https://codeberg.org/nobody/LocalCDN
