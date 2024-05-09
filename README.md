@@ -199,7 +199,9 @@ Roadmap AppSecBr -> https://github.com/PedroKetzer/roadmap-appsecbr
 
 Arkenfox -> https://github.com/arkenfox/user.js
 
-Privoxy -> https://www.privoxy.org/
+Blocky -> https://0xerr0r.github.io/blocky/v0.23/
+
+Technitium DNS -> https://technitium.com/dns/
 
 Ub0 -> https://github.com/gorhill/uBlock
 
