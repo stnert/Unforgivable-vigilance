@@ -177,7 +177,7 @@ Tracking interesting Linux (and UNIX) malware. Send PRs - https://github.com/tim
 
 AI Arms Race: Hackers vs Cybersecurity Professional, a Battle for Digital Dominance -> https://thecyberexpress.com/artificial-intelligence-hackers-cybersecurity/
 
-MITRE ATT&CK® is a globally accessible knowledge base of adversary tactics and techniques based on real-world observations -  https://attack.mitre.org/
+How To Check if Your Linux Server Has Been Hacked -> https://www.linuxinsider.com/story/how-to-check-if-your-linux-server-has-been-hacked-177287.html
 
 OpenSSF Foundation -> https://openssf.org/
 
