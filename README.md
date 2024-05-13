@@ -195,9 +195,9 @@ Mindmap -> https://github.com/Ignitetechnologies/Mindmap
 
 Roadmap AppSecBr -> https://github.com/PedroKetzer/roadmap-appsecbr
 
-# Studying hard for Anti-Tracking 
+90-Day Cyber Security Study Plan -> https://github.com/farhanashrafdev/90DaysOfCyberSecurity
 
-Arkenfox -> https://github.com/arkenfox/user.js
+# Studying hard for Anti-Tracking 
 
 Blocky -> https://0xerr0r.github.io/blocky/v0.23/
 
