@@ -197,6 +197,8 @@ Roadmap AppSecBr -> https://github.com/PedroKetzer/roadmap-appsecbr
 
 90-Day Cyber Security Study Plan -> https://github.com/farhanashrafdev/90DaysOfCyberSecurity
 
+Hack Liberty -> https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resources
+
 # Studying hard for Anti-Tracking 
 
 Blocky -> https://0xerr0r.github.io/blocky/v0.23/
