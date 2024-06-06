@@ -47,7 +47,11 @@ OpenBSD -> https://www.openbsd.org/
 
 NixOS -> https://nixos.org/
 
+Void Linux -> https://voidlinux.org/
+
 Gentoo -> https://www.gentoo.org/
+
+Alpine Linux -> https://www.alpinelinux.org/
 
 RHEL -> https://access.redhat.com/downloads/  (For servers/business)
 
