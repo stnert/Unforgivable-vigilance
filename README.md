@@ -239,3 +239,5 @@ FireHOL -> https://iplists.firehol.org/
 Made with vibrations of ❤️ (528 Hz) and 🧘‍♂️ (600 Hz) by an eternal anarchist and cyberactivist 🕵️‍♂️ | I 💜 Free Software and Linux, forever. 
 
 
+
+<a href="https://www.buymeacoffee.com/alethiometer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
