@@ -203,7 +203,7 @@ Roadmap AppSecBr -> https://github.com/PedroKetzer/roadmap-appsecbr
 
 Hack Liberty -> https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resources
 
-Debian Informations -> https://www.debian.org/security/
+Debian Security Advisor -> https://www.debian.org/security/
 
 # Studying hard for Anti-Tracking 
 
