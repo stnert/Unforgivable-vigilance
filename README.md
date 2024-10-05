@@ -81,6 +81,8 @@ Tails -> https://tails.net/
 
 # Update your surveillance knowledge
 
+Assange wins, but guilty of be journalism -> https://www.youtube.com/watch?v=HEwRZSmwUAA
+
 The GAFAM poster campaign toolkit -> https://gafam.info/
 
 Tempora Project -> https://en.wikipedia.org/wiki/Tempora
