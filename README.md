@@ -31,6 +31,8 @@ Search for what you need -> https://vx-underground.org/
 
 The "backdoor of century" -> https://boehs.org/node/everything-i-know-about-the-xz-backdoor
 
+How a Hacker Saved The Internet -> inv.nadeko.net/watch?v=F7iLfuci75Y
+
 # Recommended Operating Systems
 
 # Advanced 
