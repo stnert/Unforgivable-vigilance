@@ -249,10 +249,12 @@ And I will try to fix you..."
 
 Coldplay - Fix You 🎵
 
-"Hey, what about yesterday?
-(What about us?)
-What about the seas?
-(What about us?)
+|
+
+"Hey, what about yesterday?...
+(What about us?)...
+What about the seas?...
+(What about us?)...
 The heavens are falling down"
 
 Michael Jackson - Earth Song 🎵
