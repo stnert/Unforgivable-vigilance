@@ -255,15 +255,14 @@ And I will try to fix you..."
 
 
 
+
+[![YouTube](http://i.ytimg.com/vi/XAi3VTSdTxU/hqdefault.jpg)](https://www.youtube.com/watch?v=XAi3VTSdTxU)
+
 "Hey, what about yesterday?...
 (What about us?)...
 What about the seas?...
 (What about us?)...
 The heavens are falling down"
-
-[![YouTube](http://i.ytimg.com/vi/XAi3VTSdTxU/hqdefault.jpg)](https://www.youtube.com/watch?v=XAi3VTSdTxU)
-
-
 
 
 [![YouTube](http://i.ytimg.com/vi/zw79RVnlCb0/hqdefault.jpg)](https://www.youtube.com/watch?v=zw79RVnlCb0)
