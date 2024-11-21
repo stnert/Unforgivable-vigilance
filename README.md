@@ -236,7 +236,7 @@ LocalCDN -> https://codeberg.org/nobody/LocalCDN
 FireHOL -> https://iplists.firehol.org/
 
 
-################################################ Burn It Down #########################################################
+################################################BurnItDown#########################################################
 
 
 ![image](https://github.com/stnert/Unforgivable-vigilance/assets/48295298/3f10ea75-39bd-4e97-a4f2-43ffceee7dca)
