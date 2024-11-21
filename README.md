@@ -251,7 +251,8 @@ Tears stream down your face, and I..."
 And ignite your bones...
 And I will try to fix you..."
 
-Coldplay - Fix You 🎵
+[![YouTube](http://i.ytimg.com/vi/k4V3Mo61fJM/hqdefault.jpg)](https://www.youtube.com/watch?v=k4V3Mo61fJM)
+
 
 |
 
@@ -261,7 +262,9 @@ What about the seas?...
 (What about us?)...
 The heavens are falling down"
 
-Michael Jackson - Earth Song 🎵 
+[![YouTube](http://i.ytimg.com/vi/XAi3VTSdTxU/hqdefault.jpg)](https://www.youtube.com/watch?v=XAi3VTSdTxU)
+
+|
 
 "Hellraiser...
 In the thunder and heat...
