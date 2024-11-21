@@ -236,11 +236,26 @@ LocalCDN -> https://codeberg.org/nobody/LocalCDN
 FireHOL -> https://iplists.firehol.org/
 
 
-"What I've done...
-I'll face myself...
-To cross out what I've become...
-Erase myself...
-And let go of what I've done! 🔥"
+"Tears stream down your face
+When you lose somethin' you cannot replace
+Tears stream down your face, and I...
+Tears stream down your face
+I promise you I will learn from my mistakes
+Tears stream down your face, and I..."
+
+"Lights will guide you home...
+And ignite your bones...
+And I will try to fix you..."
+
+Coldplay - Fix You 🎵
+
+"Hey, what about yesterday?
+(What about us?)
+What about the seas?
+(What about us?)
+The heavens are falling down"
+
+Michael Jackson - Earth Song 🎵
 
 ![image](https://github.com/stnert/Unforgivable-vigilance/assets/48295298/3f10ea75-39bd-4e97-a4f2-43ffceee7dca)
 
