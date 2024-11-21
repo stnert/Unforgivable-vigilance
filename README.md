@@ -237,7 +237,7 @@ FireHOL -> https://iplists.firehol.org/
 
 
 
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
  
 
 "Tears stream down your face
@@ -254,7 +254,6 @@ And I will try to fix you..."
 [![YouTube](http://i.ytimg.com/vi/k4V3Mo61fJM/hqdefault.jpg)](https://www.youtube.com/watch?v=k4V3Mo61fJM)
 
 
-|
 
 "Hey, what about yesterday?...
 (What about us?)...
@@ -264,7 +263,7 @@ The heavens are falling down"
 
 [![YouTube](http://i.ytimg.com/vi/XAi3VTSdTxU/hqdefault.jpg)](https://www.youtube.com/watch?v=XAi3VTSdTxU)
 
-|
+
 
 "Hellraiser...
 In the thunder and heat...
