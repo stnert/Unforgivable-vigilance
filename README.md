@@ -272,7 +272,7 @@ And I'll make it come true...
 Hellraiser...
 I'll put a spell on you. 
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=zw79RVnlCb0)
+[![YouTube](http://i.ytimg.com/vi/zw79RVnlCb0/hqdefault.jpg)](https://www.youtube.com/watch?v=zw79RVnlCb0)
 
 
 
