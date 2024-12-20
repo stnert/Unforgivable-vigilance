@@ -211,6 +211,8 @@ Hack Liberty -> https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resourc
 
 Debian Security Information -> https://www.debian.org/security/
 
+Why Privacy Matters -> https://www.privacyguides.org/en/basics/why-privacy-matters/#what-is-privacy
+
 # Studying hard for Anti-Tracking 
 
 Blocky -> https://0xerr0r.github.io/blocky/v0.23/
