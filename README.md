@@ -241,56 +241,13 @@ FireHOL -> https://iplists.firehol.org/
 
 
 
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+### Welcome to The Machine - Pink Floyd 🎵 ### 
+
+
+
+
  
 
-"Tears stream down your face
-When you lose somethin' you cannot replace
-Tears stream down your face, and I...
-Tears stream down your face
-I promise you I will learn from my mistakes
-Tears stream down your face, and I..."
-
-"Lights will guide you home...
-And ignite your bones...
-And I will try to fix you..."
-
-[![YouTube](http://i.ytimg.com/vi/k4V3Mo61fJM/hqdefault.jpg)](https://www.youtube.com/watch?v=k4V3Mo61fJM)
-
-
-
-
-[![YouTube](http://i.ytimg.com/vi/XAi3VTSdTxU/hqdefault.jpg)](https://www.youtube.com/watch?v=XAi3VTSdTxU)
-
-"Hey, what about yesterday?...
-(What about us?)...
-What about the seas?...
-(What about us?)...
-The heavens are falling down"
-
-
-[![YouTube](http://i.ytimg.com/vi/zw79RVnlCb0/hqdefault.jpg)](https://www.youtube.com/watch?v=zw79RVnlCb0)
-
-"Hellraiser...
-In the thunder and heat...
-Hellraiser...
-Rock you back in your seat...
-Hellraiser...
-And I'll make it come true...
-Hellraiser...
-I'll put a spell on you. 
-
-
-|
-
-
-[![YouTube](http://i.ytimg.com/vi/RvjNtJr4h4s/hqdefault.jpg)](https://www.youtube.com/watch?v=RvjNtJr4h4s)
-
-
-[![YouTube](http://i.ytimg.com/vi/axRAL0BXNvw/hqdefault.jpg)](https://www.youtube.com/watch?v=axRAL0BXNvw)
-
-
-![image](https://github.com/stnert/Unforgivable-vigilance/assets/48295298/3f10ea75-39bd-4e97-a4f2-43ffceee7dca)
 
 "Privacy is not the problem, surveillance is."
 
