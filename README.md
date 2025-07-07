@@ -35,7 +35,6 @@ How a Hacker Saved The Internet -> https://inv.nadeko.net/watch?v=F7iLfuci75Y
 
 # Recommended Operating Systems
 
-# Advanced 
 
 Whonix -> https://www.whonix.org/
 
@@ -49,39 +48,21 @@ KickSecure -> https://www.kicksecure.com/
 
 OpenBSD -> https://www.openbsd.org/
 
-NixOS -> https://nixos.org/
-
 Void Linux -> https://voidlinux.org/
 
 Gentoo -> https://www.gentoo.org/
 
 Alpine Linux -> https://www.alpinelinux.org/
 
-RHEL -> https://access.redhat.com/downloads/  (For servers/business)
-
 GrapheneOS -> https://grapheneos.org/
 
 LFS Linux -> https://www.linuxfromscratch.org/lfs/
 
-# Intermediate 
 
 Devuan -> https://www.devuan.org/
 
-Busenlabs -> https://www.bunsenlabs.org/
-
-Arch Linux -> https://archlinux.org/
-
 Hyperbola -> https://www.hyperbola.info/
 
-# Beginner 
-
-Debian -> http://debian.org/
-
-Fedora -> https://fedoraproject.org/
-
-OpenSUSE -> https://www.opensuse.org/
-
-Tails -> https://tails.net/
 
 # Update your surveillance knowledge
 
@@ -114,6 +95,8 @@ Spyware at the Hardware Level - Intel ME & AMD PSP -> https://iv.nboeck.de/watch
 NSA-Proof your email in 2 hours -> https://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/
 
 Intel Management Engine Explained -> https://iv.nboeck.de/watch?v=Lr-9aCMUXzI (Surveillance exploited through hardware-level vulnerability)
+
+The real motivation behind systemd - > https://unixdigest.com/articles/the-real-motivation-behind-systemd.html
 
 Linux Security Tools (Top100) -> https://linuxsecurity.expert/security-tools/top-100/
 
