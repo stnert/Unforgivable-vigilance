@@ -217,8 +217,6 @@ AdGuard DNS -> https://adguard-dns.io/
 
 NextDNS -> https://nextdns.io/
 
-Quad9 -> https://quad9.net/
-
 LocalCDN -> https://codeberg.org/nobody/LocalCDN
 
 FireHOL -> https://iplists.firehol.org/
