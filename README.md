@@ -67,7 +67,7 @@ Hyperbola -> https://www.hyperbola.info/
 
 # Update your surveillance knowledge
 
-Assange wins, but guilty of be journalism -> https://www.youtube.com/watch?v=HEwRZSmwUAA
+Assange wins, but guilty of be journalism -> https://inv.nadeko.net/HEwRZSmwUAA
 
 The GAFAM poster campaign toolkit -> https://gafam.info/
 
