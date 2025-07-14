@@ -3,6 +3,18 @@
 Do you know that online surveillance is widespread and constant? If you're concerned about being monitored, don't worry - there are ways to defend yourself. Here are a few helpful tips to protect your online privacy.
 
 The internet is ruled by powerful entities such as **governments**, **_hackers_**, and **_crackers_** - and they're like mutant gods that seem indestructible—the infinite battle. 
+
+Example: 
+
+Governments: <img width="1000" height="1537" alt="image" src="https://github.com/user-attachments/assets/772f3f1d-6aa6-4e77-b5a2-1294b70e9533" />
+
+Hackers: <img width="219" height="300" alt="image" src="https://github.com/user-attachments/assets/33dffda5-8059-42a4-a730-999bb04f010c" />
+
+Crackers: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e69bb82-fde5-49f2-852b-46affb3a6d7e" />
+
+
+
+
 This battle was created the day the internet was born. 
 
 Who is their fan base? You have the right to know!
