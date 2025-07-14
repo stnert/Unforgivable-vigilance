@@ -8,7 +8,7 @@ Example:
 
 Governments: <img width="1000" height="1537" alt="image" src="https://github.com/user-attachments/assets/772f3f1d-6aa6-4e77-b5a2-1294b70e9533" />
 
-Hackers: <img width="219" height="300" alt="image" src="https://github.com/user-attachments/assets/33dffda5-8059-42a4-a730-999bb04f010c" />
+Hackers: <img width="708" height="982" alt="image" src="https://github.com/user-attachments/assets/ea55addd-fac0-4c02-8d6f-ffa35cb0d49c" />
 
 Crackers: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e69bb82-fde5-49f2-852b-46affb3a6d7e" />
 
