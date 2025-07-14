@@ -142,7 +142,7 @@ Location Data Brokers -> https://www.eff.org/issues/location-data-brokers
 
 # Studying hard for Vulnerabilities and Security
 
-SecurityOps -> https://securityops.co/
+SecurityOps -> [https://securityops.co/](https://github.com/cristiancmoises/hackerslounge)
 
 Roadmap about Cyber Security -> https://roadmap.sh/cyber-security
 
