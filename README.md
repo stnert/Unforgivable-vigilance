@@ -108,11 +108,9 @@ Libreboot -> https://libreboot.org/
 
 Spyware at the Hardware Level - Intel ME & AMD PSP -> https://inv.nadeko.net/watch?v=HNwWQ9zGT-8
 
-(Surveillance exploited through hardware-level vulnerability) -> https://inv.nadeko.net/watch?v=Lr-9aCMUXzI
+Surveillance exploited through hardware-level vulnerability  -> https://inv.nadeko.net/watch?v=Lr-9aCMUXzI
 
 NSA-Proof your email in 2 hours -> https://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/
-
-Intel Management Engine Explained -> https://iv.nboeck.de/watch?v=Lr-9aCMUXzI (Surveillance exploited through hardware-level vulnerability)
 
 The real motivation behind systemd - > https://unixdigest.com/articles/the-real-motivation-behind-systemd.html
 
