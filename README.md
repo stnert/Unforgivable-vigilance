@@ -108,7 +108,7 @@ Libreboot -> https://libreboot.org/
 
 Spyware at the Hardware Level - Intel ME & AMD PSP -> https://inv.nadeko.net/watch?v=HNwWQ9zGT-8
 
-(Surveillance exploited through hardware-level vulnerability)
+(Surveillance exploited through hardware-level vulnerability) -> https://inv.nadeko.net/watch?v=Lr-9aCMUXzI
 
 NSA-Proof your email in 2 hours -> https://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/
 
