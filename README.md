@@ -10,7 +10,7 @@ Governments (They are like Mephisto) : <img width="1000" height="1537" alt="imag
 
 Hackers (They are like Franklin Richards): <img width="708" height="982" alt="image" src="https://github.com/user-attachments/assets/ea55addd-fac0-4c02-8d6f-ffa35cb0d49c" />
 
-Crackers(They are like Doom): <img width="1141" height="714" alt="image" src="https://github.com/user-attachments/assets/40953d2c-f492-4ed9-92ae-54bfbd6ab94d" />
+Crackers(They are like Doctor Doom): <img width="1141" height="714" alt="image" src="https://github.com/user-attachments/assets/40953d2c-f492-4ed9-92ae-54bfbd6ab94d" />
 
 
 
