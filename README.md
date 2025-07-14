@@ -142,6 +142,8 @@ Location Data Brokers -> https://www.eff.org/issues/location-data-brokers
 
 # Studying hard for Vulnerabilities and Security
 
+SecurityOps -> https://securityops.co/
+
 Roadmap about Cyber Security -> https://roadmap.sh/cyber-security
 
 Security Certification Roadmap -> https://pauljerimy.com/security-certification-roadmap/
@@ -229,8 +231,6 @@ Mullvad DNS -> https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
 Control D -> https://controld.com/
 
 AdGuard DNS -> https://adguard-dns.io/
-
-NextDNS -> https://nextdns.io/
 
 LocalCDN -> https://codeberg.org/nobody/LocalCDN
 
