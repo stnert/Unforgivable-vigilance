@@ -110,11 +110,7 @@ FIVE EYES -> https://pt.wikipedia.org/wiki/Alian%C3%A7a_Cinco_Olhos
 
 Libreboot -> https://libreboot.org/
 
-Spyware at the Hardware Level - Intel ME & AMD PSP -> https://iv.nboeck.de/watch?v=HNwWQ9zGT-8  [![Watch the video](https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg)](https://www.youtube.com/embed/APOPm01BVrk)
-
-[<img src="https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg" width="600" height="300"
-/>](https://inv.nadeko.net/watch?v=HNwWQ9zGT-8)
-
+Spyware at the Hardware Level - Intel ME & AMD PSP -> https://inv.nadeko.net/watch?v=HNwWQ9zGT-8
 
 (Surveillance exploited through hardware-level vulnerability)
 
