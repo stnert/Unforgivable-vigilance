@@ -10,7 +10,7 @@ Governments: <img width="1000" height="1537" alt="image" src="https://github.com
 
 Hackers: <img width="708" height="982" alt="image" src="https://github.com/user-attachments/assets/ea55addd-fac0-4c02-8d6f-ffa35cb0d49c" />
 
-Crackers: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e69bb82-fde5-49f2-852b-46affb3a6d7e" />
+Crackers: <img width="1141" height="714" alt="image" src="https://github.com/user-attachments/assets/40953d2c-f492-4ed9-92ae-54bfbd6ab94d" />
 
 
 
