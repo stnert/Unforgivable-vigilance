@@ -8,7 +8,8 @@ Example:
 
 Governments (They are like Mephisto) : <img width="1000" height="1537" alt="image" src="https://github.com/user-attachments/assets/772f3f1d-6aa6-4e77-b5a2-1294b70e9533" />
 
-Hackers (They are like Spider-Man): <img width="250" height="375" alt="image" src="https://github.com/user-attachments/assets/8adfd5f6-b924-4fcc-9780-ee02d738fa0c" />
+Hackers (They are like Spider-Man): ![Uploading image.png…]()
+
 
 
 Crackers(They are like Doctor Doom): <img width="1141" height="714" alt="image" src="https://github.com/user-attachments/assets/40953d2c-f492-4ed9-92ae-54bfbd6ab94d" />
