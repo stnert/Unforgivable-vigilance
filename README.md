@@ -82,6 +82,8 @@ Hyperbola -> https://www.hyperbola.info/
 
 # Update your surveillance knowledge
 
+What the Zuck! -> https://whatthezuck.net/
+
 Assange wins, but guilty of be journalism -> https://inv.nadeko.net/HEwRZSmwUAA
 
 The GAFAM poster campaign toolkit -> https://gafam.info/
