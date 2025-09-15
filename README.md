@@ -66,6 +66,10 @@ OpenBSD -> https://www.openbsd.org/
 
 Void Linux -> https://voidlinux.org/
 
+NixOS -> https://nixos.org/
+
+GuixOS -> https://guix.gnu.org/
+
 Gentoo -> https://www.gentoo.org/
 
 Alpine Linux -> https://www.alpinelinux.org/
