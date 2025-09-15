@@ -78,9 +78,6 @@ GrapheneOS -> https://grapheneos.org/
 
 LFS Linux -> https://www.linuxfromscratch.org/lfs/
 
-Devuan -> https://www.devuan.org/
-
-Hyperbola -> https://www.hyperbola.info/
 
 
 # Update your surveillance knowledge
