@@ -72,12 +72,11 @@ GuixOS -> https://guix.gnu.org/
 
 Gentoo -> https://www.gentoo.org/
 
-Alpine Linux -> https://www.alpinelinux.org/
+Artix Linux -> https://artixlinux.org/
 
 GrapheneOS -> https://grapheneos.org/
 
 LFS Linux -> https://www.linuxfromscratch.org/lfs/
-
 
 Devuan -> https://www.devuan.org/
 
